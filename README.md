@@ -27,7 +27,7 @@ This repository showcases the projects I’ve built while developing skills in I
 ### ![Common Troubleshooting Issues and Resolutions](CommonTroubleshootingIssuesandResolutions.pdf)
 ### ![Troubleshooting Steps](TroubleshootingSteps.pdf)
 ### ![Microsoft 365 Stack](Microsoft365stack.pdf)
-### ![User Onboarding and Lifecycle(UserProvisioning)
+### ![User Onboarding and Lifecycle](UserProvisioning.pdf)
 
 ## Online Tools and Resources 
 
