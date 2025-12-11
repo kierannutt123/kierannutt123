@@ -23,10 +23,10 @@ This repository showcases the projects I’ve built while developing skills in I
 ## Security Reports Examples
 ### ![Incident Report example](IncidentReport.pdf)
 
-## Troubleshooting and Microsoft 365 Guides
-### ![CommonTroubleshootingIssuesandResolutions.pdf]
-### ![TroubleshootingSteps.pdf]
-### ![Microsoft365Stack.pdf]
+## Troubleshooting and Microsoft 365 Diagrams
+### ![Common Troubleshooting Issues and Resolutions](CommonTroubleshootingIssuesandResolutions.pdf)
+### ![Troubleshooting Steps](TroubleshootingSteps)
+### ![Microsoft 365 Stack](Microsoft365Stack.pdf)
 
 ## Online Tools and Resources 
 
