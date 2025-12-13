@@ -23,6 +23,9 @@ This repository showcases the projects I’ve built while developing skills in I
 ## Security Reports Examples
 ### ![Incident Report example](IncidentReport.pdf)
 
+## Networking Fundementals
+### ![DNS](DNS.pdf)
+
 ## Troubleshooting and Microsoft 365 Diagrams
 ### ![Common Troubleshooting Issues and Resolutions](CommonTroubleshootingIssuesandResolutions.pdf)
 ### ![Troubleshooting Steps](TroubleshootingSteps.pdf)
