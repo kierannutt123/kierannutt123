@@ -25,9 +25,12 @@ This repository showcases the projects I’ve built while developing skills in I
 
 ## Networking Fundementals
 ### ![DNS](DNS.pdf)
+### ![DHCP](DHCP.pdf)
 
 ## Troubleshooting and Microsoft 365 Diagrams
+### ![Tools and Technologies- Practical Experience](ToolsandTechnologies.pdf)
 ### ![Common Troubleshooting Issues and Resolutions](CommonTroubleshootingIssuesandResolutions.pdf)
+### ![Common Hardware Related Issues and Resolutions](CommonHardwareTroubleshootingIssuesandResolutions.pdf)
 ### ![Troubleshooting Steps](TroubleshootingSteps.pdf)
 ### ![Microsoft 365 Stack](Microsoft365stack.pdf)
 ### ![User Onboarding and Lifecycle](UserProvisioning.pdf)
