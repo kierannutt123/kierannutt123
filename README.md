@@ -31,7 +31,7 @@ This repository showcases the projects I’ve built while developing skills in I
 ### ![Operating Systems – Troubleshooting & Key Settings](OperatingSystemsTroubleshooting.pdf)
 ### ![Common Troubleshooting Issues and Resolutions](CommonTroubleshootingIssuesandResolutions.pdf)
 ### ![Common Hardware Related Issues and Resolutions](CommonHardwareTroubleshootingIssuesandResolutions.pdf)
-### ![Common Networkwork Issues and Resolutions] (CommonWifiandNetworkIssuesandResolutions.pdf)
+### ![Common Networkwork Issues and Resolutions](CommonWifiandNetworkIssuesandResolutions.pdf)
 
 ## Processes and frameworks
 ### ![Troubleshooting Steps](TroubleshootingSteps.pdf)
