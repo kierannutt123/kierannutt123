@@ -24,6 +24,7 @@ This repository showcases the projects I’ve built while developing skills in I
 ### ![Incident Report example](IncidentReport.pdf)
 
 ## Networking Fundementals
+### ![Windows Network Commands](WindowsNetworkCommands.md)
 ### ![DNS](DNS.pdf)
 ### ![DHCP](DHCP.pdf)
 
