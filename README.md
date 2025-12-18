@@ -39,7 +39,7 @@ This repository showcases the projects I’ve built while developing skills in I
 ### ![Troubleshooting Steps](TroubleshootingSteps.pdf)
 ### ![User Onboarding and Lifecycle](UserProvisioning.pdf)
 
-## Platform overviews (ecosystem / tooling map)
+## Operating System Configuration and Management
 ### ![Tools and Technologies- Practical Experience](ToolsandTechnologies.pdf)
 ### ![Microsoft 365 Stack](Microsoft365stack.pdf)
 
