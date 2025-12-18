@@ -39,7 +39,7 @@ This repository showcases the projects I’ve built while developing skills in I
 ## Operating System Configuration and Management
 ### ![Tools and Technologies- Practical Experience](tools-and-technologies.pdf)
 ### ![Microsoft 365 Stack](microsoft-365-stack.pdf)
-### ![User Onboarding and Lifecycle](user-provisioning.pdf)
+### ![User Onboarding and Lifecycle](user-onboarding.pdf)
 ### ![Operating Systems – Troubleshooting & Key Settings](operating-systems-troubleshooting.pdf)
 
 ## Online Tools and Resources 
