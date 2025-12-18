@@ -24,24 +24,23 @@ This repository showcases the projects I’ve built while developing skills in I
 ### ![Incident Report example](IncidentReport.pdf)
 
 ## Networking Fundementals
-### ![Windows Network Commands](WindowsNetworkCommands.md)
-### ![Mac and Linux Network Commands](Mac-and-Linux-Network-Commands.md)
-### ![DNS](DNS.pdf)
-### ![DHCP](DHCP.pdf)
+### ![Windows Network Commands](windows-network-commands.md)
+### ![Mac and Linux Network Commands](mac-and-linux-network-commands.md)
+### ![DNS](networking-fundementals/DNS.pdf)
+### ![DHCP](networking-fundementals/DHCP.pdf)
 
 ## Troubleshooting Playbooks
-### ![Operating Systems – Troubleshooting & Key Settings](OperatingSystemsTroubleshooting.pdf)
-### ![Common Troubleshooting Issues and Resolutions](CommonTroubleshootingIssuesandResolutions.pdf)
-### ![Common Hardware Related Issues and Resolutions](CommonHardwareTroubleshootingIssuesandResolutions.pdf)
-### ![Common Networkwork Issues and Resolutions](CommonWifiandNetworkIssuesandResolutions.pdf)
+### ![Common Troubleshooting Issues and Resolutions](troubleshooting-playbooks/common-troubleshooting-issues-and-resolutions.pdf)
+### ![Common Hardware Related Issues and Resolutions](troubleshooting-playbooks/common-hardware-and-troubleshooting-issues-and-resolutions.pdf)
+### ![Common Networkwork Issues and Resolutions](troubleshooting-playbooks/common-wifi-and-network-issues-and-resolutions.pdf)
+### ![Troubleshooting Steps](troubleshooting-playbooks/troubleshooting-steps.pdf)
 
-## Processes and frameworks
-### ![Troubleshooting Steps](TroubleshootingSteps.pdf)
-### ![User Onboarding and Lifecycle](UserProvisioning.pdf)
 
 ## Operating System Configuration and Management
-### ![Tools and Technologies- Practical Experience](ToolsandTechnologies.pdf)
-### ![Microsoft 365 Stack](Microsoft365stack.pdf)
+### ![Tools and Technologies- Practical Experience](operating-system-configuration-and-management/tools-and-technologies.pdf)
+### ![Microsoft 365 Stack](operating-system-configuration-and-management/microsoft-365-stack.pdf)
+### ![User Onboarding and Lifecycle](operating-system-configuration-and-management/user-provisioning.pdf)
+### ![Operating Systems – Troubleshooting & Key Settings](operating-system-configuration-and-management/operating-systems-troubleshooting.pdf)
 
 ## Online Tools and Resources 
 
