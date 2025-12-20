@@ -3,7 +3,7 @@
 This repository showcases the projects I’ve built while developing skills in IT support, networking, and system administration. Each project is designed to reflect real-world tasks an IT professional might handle, from setting up file servers to configuring Active Directory.
 
 
-## Helpdesk Opperations
+## Helpdesk Operations
 
 ### [Zendesk](https://github.com/kierannutt123/IT-Support-Case-Management-in-Zendesk/blob/main/IT-Support-Case-Management-in-Zendesk.md)
 
