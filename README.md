@@ -30,13 +30,6 @@ of fundamental IT support, networking, and operating system principles.
   - System diagnostics and performance tools
   - Identity and device lifecycle concepts
 
-## Online Tools and Resources 
-
-### IP, Domain and URL Analysis  
-- [AbuseIPDB](https://www.abuseipdb.com/) – Checks if an IP has been reported for malicious activity.  
-- [URLScan.io](https://urlscan.io/) – Scans and analyzes websites for threats like phishing and malware.  
-- [MXToolbox](https://mxtoolbox.com/) – Looks up DNS records, email security settings, and blacklists.
-
 # Projects showcasing my knowledge
 ## Helpdesk Operations
 
@@ -52,6 +45,13 @@ of fundamental IT support, networking, and operating system principles.
 ### [Group Policies](https://github.com/kierannutt123/Group-Policies/blob/main/Group%20Policies.md)
 
 ### [File Sharing and Permissions](https://github.com/kierannutt123/ActiveDirectoryFilePermissions/blob/main/Active%20Directory%20File%20Permissions.md)
+
+## Online Tools and Resources 
+
+### IP, Domain and URL Analysis  
+- [AbuseIPDB](https://www.abuseipdb.com/) – Checks if an IP has been reported for malicious activity.  
+- [URLScan.io](https://urlscan.io/) – Scans and analyzes websites for threats like phishing and malware.  
+- [MXToolbox](https://mxtoolbox.com/) – Looks up DNS records, email security settings, and blacklists.
 
 ## Contact details
 
