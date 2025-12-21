@@ -1,8 +1,10 @@
-# Kieran-Nutt IT Support and Troubleshooting Portfolio
+ -# Kieran-Nutt IT Support and Troubleshooting Portfolio
 
-This repository showcases the projects I’ve built while developing skills in IT support, networking, and system administration. Each project is designed to reflect real-world tasks an IT professional might handle, from setting up file servers to configuring Active Directory.
-
-
+This repository brings together practical reference material and hands-on projects
+covering networking, troubleshooting, operating systems, and Microsoft 365 / identity.
+It is designed to demonstrate both foundational understanding and applied technical skills
+relevant to junior IT support and security-focused roles.
+# Projects showcasing my knowlege
 ## Helpdesk Operations
 
 ### [Zendesk](https://github.com/kierannutt123/IT-Support-Case-Management-in-Zendesk/blob/main/IT-Support-Case-Management-in-Zendesk.md)
@@ -20,27 +22,30 @@ This repository showcases the projects I’ve built while developing skills in I
 
 
 
-## Security Reports Examples
-### ![Incident Report example](IncidentReport.pdf)
+# Core Concepts and Technichal Foundations
+Core concepts, diagrams, and quick-reference material that reflect my understanding
+of fundamental IT support, networking, and operating system principles.
+Core concepts, diagrams, and quick-reference material that reflect my understanding
+of fundamental IT support, networking, and operating system principles.
 
-## Networking Fundementals
-### ![Windows Network Commands](windows-network-commands.md)
-### ![Mac and Linux Network Commands](mac-and-linux-network-commands.md)
-### ![DNS](DNS.pdf)
-### ![DHCP](DHCP.pdf)
+- ### [Networking Fundamentals](https://github.com/kierannutt123/Group-Policies/blob/main/Group%20Policies.md)
 
-## Troubleshooting Playbooks
-### ![Common Troubleshooting Issues and Resolutions](common-troubleshooting-issues-and-resolutions.pdf)
-### ![Common Hardware Related Issues and Resolutions](common-hardware-and-troubleshooting-issues-and-resolutions.pdf)
-### ![Common Networkwork Issues and Resolutions](common-wifi-and-network-issues-and-resolutions.pdf)
-### ![Troubleshooting Steps](troubleshooting-steps.pdf)
+  - Windows network commands
+  - macOS & Linux network commands
+  - Common network protocols (DNS, DHCP)
+  - Ports and protocol behaviour
 
+- ### [Troubleshooting Playbooks](https://github.com/kierannutt123/Group-Policies/blob/main/Group%20Policies.md)
 
-## Operating System Configuration and Management
-### ![Tools and Technologies- Practical Experience](tools-and-technologies.pdf)
-### ![Microsoft 365 Stack](Microsoft365stack.pdf)
-### ![User Onboarding and Lifecycle](user-onboarding.pdf)
-### ![Operating Systems – Troubleshooting & Key Settings](operating-systems-troubleshooting.pdf)
+  - Common user, hardware, and network issues
+  - Structured troubleshooting steps
+  - Local software and OS-level troubleshooting tools
+
+- ### [Operating System Configuration & Management](https://github.com/kierannutt123/Group-Policies/blob/main/Group%20Policies.md)
+
+  - Windows, macOS, and Linux key settings
+  - System diagnostics and performance tools
+  - Identity and device lifecycle concepts
 
 ## Online Tools and Resources 
 
