@@ -4,23 +4,6 @@ This repository brings together practical reference material and hands-on projec
 covering networking, troubleshooting, operating systems, and Microsoft 365 / identity.
 It is designed to demonstrate both foundational understanding and applied technical skills
 relevant to junior IT support and security-focused roles.
-# Projects showcasing my knowlege
-## Helpdesk Operations
-
-### [Zendesk](https://github.com/kierannutt123/IT-Support-Case-Management-in-Zendesk/blob/main/IT-Support-Case-Management-in-Zendesk.md)
-
-## Troubleshooting Scripts and Commands
-
-### [Network Troubleshooting](https://github.com/kierannutt123/Network-Commands/blob/main/.md)
-
-
-## Active Directory
-
-### [Group Policies](https://github.com/kierannutt123/Group-Policies/blob/main/Group%20Policies.md)
-
-### [File Sharing and Permissions](https://github.com/kierannutt123/ActiveDirectoryFilePermissions/blob/main/Active%20Directory%20File%20Permissions.md)
-
-
 
 # Core Concepts and Technichal Foundations
 Core concepts, diagrams, and quick-reference material that reflect my understanding
@@ -35,7 +18,7 @@ of fundamental IT support, networking, and operating system principles.
   - Common network protocols (DNS, DHCP)
   - Ports and protocol behaviour
 
-- ### [Troubleshooting Playbooks](https://github.com/kierannutt123/Group-Policies/blob/main/Group%20Policies.md)
+- ### [Troubleshooting Playbooks](https://github.com/kierannutt123/Troubleshooting-Playbooks/blob/main/README.md)
 
   - Common user, hardware, and network issues
   - Structured troubleshooting steps
@@ -54,6 +37,21 @@ of fundamental IT support, networking, and operating system principles.
 - [URLScan.io](https://urlscan.io/) – Scans and analyzes websites for threats like phishing and malware.  
 - [MXToolbox](https://mxtoolbox.com/) – Looks up DNS records, email security settings, and blacklists.
 
+# Projects showcasing my knowledge
+## Helpdesk Operations
+
+### [Zendesk](https://github.com/kierannutt123/IT-Support-Case-Management-in-Zendesk/blob/main/IT-Support-Case-Management-in-Zendesk.md)
+
+## Troubleshooting Scripts and Commands
+
+### [Network scripts](https://github.com/kierannutt123/Network-Commands/blob/main/.md)
+
+
+## Active Directory
+
+### [Group Policies](https://github.com/kierannutt123/Group-Policies/blob/main/Group%20Policies.md)
+
+### [File Sharing and Permissions](https://github.com/kierannutt123/ActiveDirectoryFilePermissions/blob/main/Active%20Directory%20File%20Permissions.md)
 
 ## Contact details
 
