@@ -28,7 +28,7 @@ of fundamental IT support, networking, and operating system principles.
 Core concepts, diagrams, and quick-reference material that reflect my understanding
 of fundamental IT support, networking, and operating system principles.
 
-- ### [Networking Fundamentals](https://github.com/kierannutt123/Group-Policies/blob/main/Group%20Policies.md)
+- ### [Networking Fundamentals](https://github.com/kierannutt123/Network-Fundamentals/blob/main/README.md)
 
   - Windows network commands
   - macOS & Linux network commands
@@ -41,7 +41,7 @@ of fundamental IT support, networking, and operating system principles.
   - Structured troubleshooting steps
   - Local software and OS-level troubleshooting tools
 
-- ### [Operating System Configuration & Management](https://github.com/kierannutt123/Group-Policies/blob/main/Group%20Policies.md)
+- ### [Operating System Configuration & Management](https://github.com/kierannutt123/Operating-System-Configuration-and-Management/blob/main/README.md)
 
   - Windows, macOS, and Linux key settings
   - System diagnostics and performance tools
