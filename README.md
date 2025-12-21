@@ -1,4 +1,4 @@
- -# Kieran-Nutt IT Support and Troubleshooting Portfolio
+ # Kieran-Nutt IT Support and Troubleshooting Portfolio
 
 This repository brings together practical reference material and hands-on projects
 covering networking, troubleshooting, operating systems, and Microsoft 365 / identity.
