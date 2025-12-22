@@ -6,8 +6,7 @@ It is designed to demonstrate both foundational understanding and applied techni
 relevant to junior IT support and security-focused roles.
 
 # Core Concepts and Technichal Foundations
-Core concepts, diagrams, and quick-reference material that reflect my understanding
-of fundamental IT support, networking, and operating system principles.
+
 Core concepts, diagrams, and quick-reference material that reflect my understanding
 of fundamental IT support, networking, and operating system principles.
 
