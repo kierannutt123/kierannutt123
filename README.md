@@ -41,6 +41,11 @@ of fundamental IT support, networking, and operating system principles.
 
 ## Active Directory
 
+## Entra ID
+### [Identity driven access control](https://github.com/kierannutt123/Entra/blob/main/README.md)
+
+## Windows AD
+
 ### [Group Policies](https://github.com/kierannutt123/Group-Policies/blob/main/Group%20Policies.md)
 
 ### [File Sharing and Permissions](https://github.com/kierannutt123/ActiveDirectoryFilePermissions/blob/main/Active%20Directory%20File%20Permissions.md)
@@ -55,5 +60,3 @@ of fundamental IT support, networking, and operating system principles.
 ## Contact details
 
 kierannutt@gmail.com 
-
-To view my cyber security portfolio [Click Here](https://github.com/kierannutt123/kieran1234n)
