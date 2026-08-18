@@ -11,6 +11,9 @@ Core concepts, diagrams, and quick-reference material that reflect my understand
 of fundamental IT support, networking, and operating system principles.
 
 - ### [M365 Fundamentals](https://github.com/kierannutt123/M365-Fundamentals/blob/main/README.md)
+  - End-user how-to guides for common Microsoft 365 tasks
+  - Administrator guides covering Entra ID, Intune and Microsoft 365
+  - Troubleshooting playbooks for identity, authentication and device issues
 
 - ### [Networking Fundamentals](https://github.com/kierannutt123/Network-Fundamentals/blob/main/README.md)
 
