@@ -5,15 +5,16 @@ covering networking, troubleshooting, operating systems, and Microsoft 365 / ide
 It is designed to demonstrate both foundational understanding and applied technical skills
 relevant to junior IT support and security-focused roles.
 
-# Core Concepts and Technichal Foundations
+# Core Concepts and Technical Foundations
 
 Core concepts, diagrams, and quick-reference material that reflect my understanding
 of fundamental IT support, networking, and operating system principles.
 
+- ### [M365 Fundamentals](https://github.com/kierannutt123/M365-Fundamentals/blob/main/README.md)
+
 - ### [Networking Fundamentals](https://github.com/kierannutt123/Network-Fundamentals/blob/main/README.md)
 
   - Windows network commands
-  - macOS & Linux network commands
   - Common network protocols (DNS, DHCP)
   - Ports and protocol behaviour
 
