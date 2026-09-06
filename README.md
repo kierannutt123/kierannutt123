@@ -42,12 +42,6 @@ of fundamental IT support, networking, and operating system principles.
 
 ### [Network scripts](https://github.com/kierannutt123/Network-Commands/blob/main/.md)
 
-
-## Active Directory
-
-## Entra ID
-### [Identity driven access control](https://github.com/kierannutt123/Entra/blob/main/README.md)
-
 ## Windows AD
 
 ### [Group Policies](https://github.com/kierannutt123/Group-Policies/blob/main/Group%20Policies.md)
