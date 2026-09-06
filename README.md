@@ -10,7 +10,7 @@ relevant to junior IT support and security-focused roles.
 Core concepts, diagrams, and quick-reference material that reflect my understanding
 of fundamental IT support, networking, and operating system principles.
 
-- ### [Microsoft 365 Fundamentals](https://github.com/kierannutt123/M365-Fundamentals/blob/main/README.md)
+- ### [Microsoft 365 Fundamentals](https://github.com/kierannutt123/Microsoft-365-Fundamentals)
   - End-user how-to guides for common Microsoft 365 tasks
   - Administrator guides covering Entra ID, Intune and Microsoft 365
   - Troubleshooting playbooks for identity, authentication and device issues
