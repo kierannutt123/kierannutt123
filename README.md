@@ -1,52 +1,59 @@
- # Kieran-Nutt IT Support and Troubleshooting Portfolio
+# Kieran Nutt – IT Support Portfolio
 
-This repository brings together practical reference material and hands-on projects
-covering networking, troubleshooting, operating systems, and Microsoft 365 / identity.
-It is designed to demonstrate both foundational understanding and applied technical skills
-relevant to junior IT support and security-focused roles.
+This portfolio brings together practical IT support reference material, end-user guides, troubleshooting documentation, and hands-on projects.
+
+It is designed to demonstrate both my technical understanding and the practical skills I use in IT support environments.
+
+---
 
 # Core Concepts and Technical Foundations
 
-Core concepts, diagrams, and quick-reference material that reflect my understanding
-of fundamental IT support, networking, and operating system principles.
+## Microsoft 365 Fundamentals
 
-- ### [Microsoft 365 Fundamentals](https://github.com/kierannutt123/Microsoft-365-Fundamentals)
-  - End-user how-to guides for common Microsoft 365 tasks
-  - Administrator guides covering Entra ID, Intune and Microsoft 365
-  - Troubleshooting playbooks for identity, authentication and device issues
+### End-User Guides
 
-- ### [Networking Fundamentals](https://github.com/kierannutt123/Network-Fundamentals/blob/main/README.md)
+- [Microsoft Teams](https://github.com/kierannutt123/Microsoft-Teams)
+- [OneDrive](https://github.com/kierannutt123/OneDrive)
+- [Microsoft Outlook](https://github.com/kierannutt123/Microsoft-Outlook)
+- [Microsoft Word](https://github.com/kierannutt123/Microsoft-Word)
+- [Microsoft Excel](https://github.com/kierannutt123/Microsoft-Excel)
+- [General Keyboard Shortcuts](https://github.com/kierannutt123/General-Keyboard-Shortcuts)
+- [Passwords and Sign-In](https://github.com/kierannutt123/Passwords-Sign-In)
 
-  - Windows network commands
-  - Common network protocols (DNS, DHCP)
-  - Ports and protocol behaviour
+### Administration & Identity
 
-- ### [Troubleshooting Playbooks](https://github.com/kierannutt123/Troubleshooting-Playbooks/blob/main/README.md)
+- [Entra ID – Users and Groups](https://github.com/kierannutt123/Entra---Users-and-Groups)
+- [Entra ID – Conditional Access & Sign-In Logs](https://github.com/kierannutt123/Entra---Conditional-Access-Sign-In-Logs)
 
-  - Common user, hardware, and network issues
-  - Structured troubleshooting steps
-  - Local software and OS-level troubleshooting tools
+---
 
-- ### [Operating System Configuration & Management](https://github.com/kierannutt123/Operating-System-Configuration-and-Management/blob/main/README.md)
+## Networking Fundamentals
 
-  - Windows, macOS, and Linux key settings
-  - System diagnostics and performance tools
-  - Identity and device lifecycle concepts
+- [Network Fundamentals](https://github.com/kierannutt123/Network-Fundamentals)
+- [Network Commands](https://github.com/kierannutt123/Network-Commands)
 
-# Projects showcasing my knowledge
+---
+
+## Operating Systems
+
+- [Operating System Configuration and Management](https://github.com/kierannutt123/Operating-System-Configuration-and-Management)
+
+---
+
+# Practical IT Support
+
+## Troubleshooting
+
+- [Troubleshooting Playbooks](https://github.com/kierannutt123/Troubleshooting-Playbooks)
+
 ## Helpdesk Operations
 
-### [Zendesk](https://github.com/kierannutt123/IT-Support-Case-Management-in-Zendesk/blob/main/IT-Support-Case-Management-in-Zendesk.md)
+- [Ticket Management in Zendesk](https://github.com/kierannutt123/IT-Support-Case-Management-in-Zendesk)
 
-## Troubleshooting Scripts and Commands
+## Windows Administration
 
-### [Network scripts](https://github.com/kierannutt123/Network-Commands/blob/main/.md)
-
-## Windows AD
-
-### [Group Policies](https://github.com/kierannutt123/Group-Policies/blob/main/Group%20Policies.md)
-
-### [File Sharing and Permissions](https://github.com/kierannutt123/ActiveDirectoryFilePermissions/blob/main/Active%20Directory%20File%20Permissions.md)
+- [Group Policies](https://github.com/kierannutt123/Group-Policies)
+- [Active Directory File Permissions](https://github.com/kierannutt123/ActiveDirectoryFilePermissions)
 
 ## Online Tools and Resources 
 
