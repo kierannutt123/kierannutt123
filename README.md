@@ -34,12 +34,6 @@ It is designed to demonstrate both my technical understanding and the practical 
 
 ---
 
-## Operating Systems
-
-- [Operating System Configuration and Management](https://github.com/kierannutt123/Operating-System-Configuration-and-Management)
-
----
-
 # Practical IT Support
 
 ## Troubleshooting
@@ -52,6 +46,7 @@ It is designed to demonstrate both my technical understanding and the practical 
 
 ## Windows Administration
 
+- [Windows Troubleshooting tools](https://github.com/kierannutt123/Operating-System-Configuration-and-Management)
 - [Group Policies](https://github.com/kierannutt123/Group-Policies)
 - [Active Directory File Permissions](https://github.com/kierannutt123/ActiveDirectoryFilePermissions)
 
